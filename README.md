@@ -25,7 +25,7 @@
     <img src="assets/logo-go-starter.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Go Starter Template</h3>
+<h3 align="center">Go EMR Service</h3>
 
   <p align="center">
     A boiler plate for your Go project with best practices
@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Go Starter Template][product-screenshot]](https://go-emr.github.io/go-emr-service/)
+[![Go EMR Service][product-screenshot]](https://go-emr.github.io/go-emr-service/)
 
 This is a starter template for your `go` based projects. It is supercharged with latest technologies like `bazel`, `grpc`, `linters`, and much more. The new updates related to features, bug fixes, and securities will keep on adding with newer version of the template. The detailed version can be found on [project website](https://go-emr.github.io/go-emr-service/).
 
@@ -155,7 +155,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 <!-- CONTACT -->
 ## Contact
 
-Discord Server - [Go Starter Template](https://discord.gg/ZNHGGGDsNe)
+Discord Server - [Go EMR Service](https://discord.gg/ZNHGGGDsNe)
 
 Project Link: [https://github.com/goemr/go-emr-service](https://github.com/goemr/go-emr-service)
 
