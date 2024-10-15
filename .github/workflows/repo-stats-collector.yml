@@ -6,12 +6,12 @@ on:
 
 jobs:
   j1:
-    if: github.repository == 'sarvsav/go-starter-template'
+    if: github.repository == 'Go-EMR/go-emr-service'
     name: repostats-for-project
     runs-on: ubuntu-latest
     steps:
       - name: run-ghrs
         uses: jgehrcke/github-repo-stats@RELEASE
         with:
-          repository: sarvsav/go-starter-template
+          repository: Go-EMR/go-emr-service
           ghtoken: ${{ secrets.PERSONAL_GITHUB_TOKEN }}

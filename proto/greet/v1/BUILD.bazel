@@ -11,7 +11,7 @@ proto_library(
 go_proto_library(
     name = "greetv1_go_proto",
     compilers = ["@io_bazel_rules_go//proto:go_grpc"],
-    importpath = "github.com/sarvsav/go-starter-template/proto/greet/v1",
+    importpath = "github.com/Go-EMR/go-emr-service/proto/greet/v1",
     proto = ":greetv1_proto",
     visibility = ["//visibility:public"],
     deps = [
