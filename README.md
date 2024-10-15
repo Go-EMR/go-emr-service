@@ -30,7 +30,7 @@
   <p align="center">
     A boiler plate for your Go project with best practices
     <br />
-    <a href="https://sarvsav.github.io/go-starter-template/"><strong>📘 Explore the docs  »</strong></a>
+    <a href="https://go-emr.github.io/go-emr-service/"><strong>📘 Explore the docs  »</strong></a>
     <br />
     <br />
     <a href="https://calendly.com/sarvsav">📅 Book a meeting</a>
@@ -75,9 +75,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Go Starter Template][product-screenshot]](https://sarvsav.github.io/go-starter-template/)
+[![Go Starter Template][product-screenshot]](https://go-emr.github.io/go-emr-service/)
 
-This is a starter template for your `go` based projects. It is supercharged with latest technologies like `bazel`, `grpc`, `linters`, and much more. The new updates related to features, bug fixes, and securities will keep on adding with newer version of the template. The detailed version can be found on [project website](https://sarvsav.github.io/go-starter-template/).
+This is a starter template for your `go` based projects. It is supercharged with latest technologies like `bazel`, `grpc`, `linters`, and much more. The new updates related to features, bug fixes, and securities will keep on adding with newer version of the template. The detailed version can be found on [project website](https://go-emr.github.io/go-emr-service/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +120,7 @@ Choose the option `Use this template` for your new project as a boilerplate for 
 
 ![Use This Template](./assets/use-this-template.png)
 
-_For more information, please refer to the [Documentation](https://sarvsav.github.io/go-starter-template/)_
+_For more information, please refer to the [Documentation](https://go-emr.github.io/go-emr-service/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
