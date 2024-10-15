@@ -1,4 +1,4 @@
-module github.com/sarvsav/go-starter-template
+module github.com/Go-EMR/go-emr-service
 
 go 1.22.1
 

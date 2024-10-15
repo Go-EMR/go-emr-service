@@ -1,7 +1,7 @@
 load("@gazelle//:def.bzl", "gazelle")
 load("@rules_go//go:def.bzl", "go_binary", "go_library", "go_test")
 
-# gazelle:prefix github.com/sarvsav/go-starter-template
+# gazelle:prefix github.com/Go-EMR/go-emr-service
 # gazelle:build_file_name BUILD
 # gazelle:proto disable_global
 gazelle(
@@ -23,7 +23,7 @@ gazelle(
 go_library(
     name = "go-starter-template_lib",
     srcs = ["main.go"],
-    importpath = "github.com/sarvsav/go-starter-template",
+    importpath = "github.com/Go-EMR/go-emr-service",
     visibility = ["//visibility:private"],
 )
 

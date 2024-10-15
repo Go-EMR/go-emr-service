@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sarvsav/go-starter-template">
+  <a href="https://github.com/goemr/go-emr-service">
     <img src="assets/logo-go-starter.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -35,9 +35,9 @@
     <br />
     <a href="https://calendly.com/sarvsav">📅 Book a meeting</a>
     ·
-    <a href="https://github.com/sarvsav/go-starter-template/issues/new?assignees=sarvsav&labels=bug%2Cneeds-triage&projects=&template=01_bug_report.yml">🐛 Report Bug</a>
+    <a href="https://github.com/goemr/go-emr-service/issues/new?assignees=sarvsav&labels=bug%2Cneeds-triage&projects=&template=01_bug_report.yml">🐛 Report Bug</a>
     ·
-    <a href="https://github.com/sarvsav/go-starter-template/issues/new?assignees=sarvsav&labels=enhancement%2Cneeds-triage&projects=&template=02_feature_request.yml"> 🔨 Request Feature</a>
+    <a href="https://github.com/goemr/go-emr-service/issues/new?assignees=sarvsav&labels=enhancement%2Cneeds-triage&projects=&template=02_feature_request.yml"> 🔨 Request Feature</a>
   </p>
 </div>
 
@@ -137,7 +137,7 @@ _For more information, please refer to the [Documentation](https://sarvsav.githu
 - [ ] Add CLI to generate this template
     - [ ] Add subcommand for help
 
-See the [open issues](https://github.com/sarvsav/go-starter-template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/goemr/go-emr-service/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +157,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 Discord Server - [Go Starter Template](https://discord.gg/ZNHGGGDsNe)
 
-Project Link: [https://github.com/sarvsav/go-starter-template](https://github.com/sarvsav/go-starter-template)
+Project Link: [https://github.com/goemr/go-emr-service](https://github.com/goemr/go-emr-service)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,8 +166,8 @@ Project Link: [https://github.com/sarvsav/go-starter-template](https://github.co
 
 Big thanks to our contributors.
 
-<a href="https://github.com/sarvsav/go-starter-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sarvsav/go-starter-template" />
+<a href="https://github.com/goemr/go-emr-service/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=goemr/go-emr-service" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
@@ -199,18 +199,18 @@ If you appreciate this project, please consider showing your support by ⭐ star
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sarvsav/go-starter-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/sarvsav/go-starter-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sarvsav/go-starter-template.svg?style=for-the-badge
-[forks-url]: https://github.com/sarvsav/go-starter-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/sarvsav/go-starter-template.svg?style=for-the-badge
-[stars-url]: https://github.com/sarvsav/go-starter-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sarvsav/go-starter-template.svg?style=for-the-badge
-[issues-url]: https://github.com/sarvsav/go-starter-template/issues
-[license-shield]: https://img.shields.io/github/license/sarvsav/go-starter-template.svg?style=for-the-badge
-[license-url]: https://github.com/sarvsav/go-starter-template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/goemr/go-emr-service.svg?style=for-the-badge
+[contributors-url]: https://github.com/goemr/go-emr-service/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/goemr/go-emr-service.svg?style=for-the-badge
+[forks-url]: https://github.com/goemr/go-emr-service/network/members
+[stars-shield]: https://img.shields.io/github/stars/goemr/go-emr-service.svg?style=for-the-badge
+[stars-url]: https://github.com/goemr/go-emr-service/stargazers
+[issues-shield]: https://img.shields.io/github/issues/goemr/go-emr-service.svg?style=for-the-badge
+[issues-url]: https://github.com/goemr/go-emr-service/issues
+[license-shield]: https://img.shields.io/github/license/goemr/go-emr-service.svg?style=for-the-badge
+[license-url]: https://github.com/goemr/go-emr-service/blob/master/LICENSE.txt
 [product-screenshot]: assets/go-starter-template.png
-[Golang]: https://img.shields.io/github/go-mod/go-version/sarvsav/go-starter-template?style=for-the-badge&logo=go
+[Golang]: https://img.shields.io/github/go-mod/go-version/goemr/go-emr-service?style=for-the-badge&logo=go
 [Go-url]: https://go.dev/
 [Bazel]: https://img.shields.io/badge/Bazel-v7-brightgreen?style=for-the-badge&logo=bazel
 [Bazel-url]: https://bazel.build/

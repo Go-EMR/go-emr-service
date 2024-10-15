@@ -20,7 +20,7 @@ all: help
 
 ## Prebuild:
 prebuild: ## Generate the build files using gazelle
-	gazelle -repo_root . -go_prefix github.com/sarvsav/go-starter-template
+	gazelle -repo_root . -go_prefix github.com/Go-EMR/go-emr-service
 
 update-repos: ## Update dependencies using bazelisk
 	bazelisk run :gazelle-update-repos

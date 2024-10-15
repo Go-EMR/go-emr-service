@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   main:
-    if: github.repository == 'sarvsav/go-starter-template'
+    if: github.repository == 'Go-EMR/go-emr-service'
     runs-on: ubuntu-latest
     name: Semantic Pull Request
     steps:
